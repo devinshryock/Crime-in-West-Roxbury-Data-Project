@@ -1,4 +1,4 @@
-#Script for Boston Crime Project
+#Script for City of Boston Crime Project
 #This data is from https://data.cityofboston.gov
 setwd("~/Desktop/LevelEDU /Labs/Week 4/Project#3")
 crime.data <- read.csv("Crime_Incident_Reports.csv")

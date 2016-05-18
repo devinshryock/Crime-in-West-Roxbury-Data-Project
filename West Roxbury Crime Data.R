@@ -1,5 +1,9 @@
 #Author: Devin Shryock
+<<<<<<< HEAD
 #City of Boston crime project to analyze crime in West Roxbury, MA
+=======
+#Script for City of Boston Crime Project
+>>>>>>> 4476dee8644104ac10104b4271b7b7d1a2862702
 #This data is from https://data.cityofboston.gov
 setwd("~/Desktop/LevelEDU /Labs/Week 4/Project#3")
 crime.data <- read.csv("Crime_Incident_Reports.csv")
